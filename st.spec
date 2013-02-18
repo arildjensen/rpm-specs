@@ -16,6 +16,7 @@ BuildRequires:  gcc
 BuildRequires:  make
 BuildRequires:  libXext-devel
 BuildRequires:  libXft-devel
+BuildRequires:  liberation-mono-fonts
 Requires:       xorg-x11-xinit
 
 %description
