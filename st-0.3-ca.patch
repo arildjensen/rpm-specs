@@ -1,0 +1,12 @@
+diff -uNr st-0.3/config.def.h st-0.3p/config.def.h
+--- st-0.3/config.def.h	2013-02-21 14:03:13.149479670 -0800
++++ st-0.3p/config.def.h	2013-02-21 14:13:18.661545646 -0800
+@@ -1,7 +1,7 @@
+ /* See LICENSE file for copyright and license details. */
+ 
+ /* appearance */
+-static char font[] = "Liberation Mono:pixelsize=12:antialias=false:autohint=false";
++static char font[] = "Terminus:pixelsize=16:antialias=false:autohint=false";
+ static unsigned int borderpx = 2;
+ static char shell[] = "/bin/sh";
+ 
